@@ -1,3 +1,5 @@
+// The code snippet defines a Flutter widget called HomePage that displays two counters for two teams (Team A and Team B). The counters can be incremented by 1, 2, or 3 points using buttons, and there is also a reset button to
+// The code snippet defines a Flutter widget called HomePage that displays two counters for two teams (Team A and Team B). The counters can be incremented by 1, 2, or 3 points using buttons, and there is also a reset button to
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
